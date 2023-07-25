@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Any AI/ML project or webapp.**
 
-- 👨‍💻 All of my projects are available at [https://yashaggarwal.com](https://yashaggarwal.com)
+- 👨‍💻 All of my projects are available at [yashaggarwal.com](https://yashaggarwal.com)
 
 - 💬 Ask me about **Angular, Web development, Machine Learning.**
 
 - 📫 Reach me at **yagga004@ucr.edu**
 
-- 📄 Know about my experiences [https://d26phrkqcbbdz6.cloudfront.net/Resume/Yash_resume.pdf](https://d26phrkqcbbdz6.cloudfront.net/Resume/Yash_resume.pdf)
+- 📄 Know about my experiences [here](https://d26phrkqcbbdz6.cloudfront.net/Resume/Yash_resume.pdf)
 
 - ⚡ Fun fact **I am known as the exterminator for my debugging skills.**
 
