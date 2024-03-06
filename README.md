@@ -44,6 +44,18 @@ work experience.
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
             height="40" />
     </a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="" height="40">
+    </a>
+    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+<img src="https://prismalens.vercel.app/header/logo-white.svg" width="40" alt="prisma_logo">
+    </a>
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" alt="prisma_logo">
+    </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="40" alt="MongoDB logo" class="css-3el0ca">
+    </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="40" height="40" />
