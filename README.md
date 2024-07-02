@@ -18,7 +18,7 @@
 - 👨‍💻 All of my projects are available at [yashaggarwal.com](https://yashaggarwal.com)
 - 💬 Ask me anything about **Angular, Web development, DevOps, Machine Learning.**
 - 📫 Reach me at **yash.aggarwal.8618@gmail.com**
-- 📄 You can check my [resume](https://d26phrkqcbbdz6.cloudfront.net/Resume/Yash_resume.pdf) for more details about
+- 📄 You can check my [resume](https://server.yashaggarwal.com/resume) for more details about
 work experience.
 - ⚡ Fun fact **I am known as the exterminator for my debugging skills.**
 
